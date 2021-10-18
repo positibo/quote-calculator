@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QuoteCalculator", "QuoteCalculator\QuoteCalculator.csproj", "{07DF1E18-0C69-4336-B85F-9568C16784E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuoteCalculator.Tests", "QuoteCalculator.Tests\QuoteCalculator.Tests.csproj", "{890B4445-D476-4657-8D5D-4228812DB957}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07DF1E18-0C69-4336-B85F-9568C16784E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07DF1E18-0C69-4336-B85F-9568C16784E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07DF1E18-0C69-4336-B85F-9568C16784E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07DF1E18-0C69-4336-B85F-9568C16784E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{890B4445-D476-4657-8D5D-4228812DB957}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{890B4445-D476-4657-8D5D-4228812DB957}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{890B4445-D476-4657-8D5D-4228812DB957}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{890B4445-D476-4657-8D5D-4228812DB957}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {793D9EC7-A72B-4ACB-B324-6AFFE93A64D8}
+	EndGlobalSection
+EndGlobal
